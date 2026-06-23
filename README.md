@@ -19,4 +19,4 @@ Data Standardization Techniques
 Null Value Handling
 Objective
 
-The goal of this project was to transform raw, inconsistent layoffs data into a clean and analysis-ready dataset that can be used for business intelligence, reporting, and exploratory data analysis."
+The goal of this project was to transform raw, inconsistent layoffs data into a clean and analysis-ready dataset that can be used for my personal business intelligence, reporting, and exploratory data analysis."
